@@ -17,3 +17,6 @@ Mise en place du code VB pour le Formulaire_perso
               - Mettre prenom et nom dans la selection d'un client
 
 Modification sur RDV
+
+
+Test depuis le PC
